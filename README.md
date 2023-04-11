@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am *qbantek* (q-ban-tek)
+I am *qbantek* (cuban-tek)
 
 <!--
 **qbantek/qbantek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
