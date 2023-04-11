@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbantek&langs_count=10&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My latest (public) GitHub activity
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 2 commit(s) to [qbantek/dotfiles](https://github.com/qbantek/dotfiles)<br>
