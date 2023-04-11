@@ -3,7 +3,12 @@ name: GitHub Activity
 on:
   schedule:
     - cron: '30 * * * *'
-
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason to manually run this workflow?'
+        required: false
+        default: 'testing'
 jobs:
   build:
     runs-on: ubuntu-latest
