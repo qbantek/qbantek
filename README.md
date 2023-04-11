@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My latest GitHub activity
+## My latest (public) GitHub activity
 <!--RECENT_ACTIVITY:start-->
 1. Pushed 2 commit(s) to [qbantek/dotfiles](https://github.com/qbantek/dotfiles)<br>
 2. Starred [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim)<br>
