@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 ## My latest (public) GitHub activity
 <!--RECENT_ACTIVITY:start-->
-1. Pushed 94 commit(s) to [AllClear-ai/react-admin](https://github.com/AllClear-ai/react-admin)<br>
-2. Pushed 1 commit(s) to [AllClear-ai/react-admin-firebase](https://github.com/AllClear-ai/react-admin-firebase)<br>
+1. Commented on [#278](https://github.com/benwinding/react-admin-firebase/pull/278#issuecomment-1569045924) in [benwinding/react-admin-firebase](https://github.com/benwinding/react-admin-firebase)<br>
+2. Pushed 94 commit(s) to [AllClear-ai/react-admin](https://github.com/AllClear-ai/react-admin)<br>
 3. Pushed 1 commit(s) to [AllClear-ai/react-admin-firebase](https://github.com/AllClear-ai/react-admin-firebase)<br>
 4. Pushed 1 commit(s) to [AllClear-ai/react-admin-firebase](https://github.com/AllClear-ai/react-admin-firebase)<br>
-5. Opened PR [#278](https://github.com/benwinding/react-admin-firebase/pull/278) in [benwinding/react-admin-firebase](https://github.com/benwinding/react-admin-firebase)<br>
+5. Pushed 1 commit(s) to [AllClear-ai/react-admin-firebase](https://github.com/AllClear-ai/react-admin-firebase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 30th, 2023, 8:33:04 PM (GMT)
+Last Updated: Tuesday, May 30th, 2023, 9:33:05 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
