@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fe35a56e-0471-4e95-a1b5-12b928516da4)
+<img alt="Coding the Matrix" src="https://github.com/user-attachments/assets/59fbca1f-0b00-464b-a8c9-24de1ec70c75">
 
 ### Hi there 👋
 
