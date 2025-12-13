@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 ## My latest (public) GitHub activity
 <!--RECENT_ACTIVITY:start-->
-1. Opened PR [#22](undefined) in [quintsys/firebase_hosting_client_ip](https://github.com/quintsys/firebase_hosting_client_ip)<br>
-2. Pushed undefined commit(s) to [quintsys/firebase_hosting_client_ip](https://github.com/quintsys/firebase_hosting_client_ip)<br>
+1. Commented on [#33](https://github.com/quintsys/firebase_hosting_client_ip/pull/33#issuecomment-3648612033) in [quintsys/firebase_hosting_client_ip](https://github.com/quintsys/firebase_hosting_client_ip)<br>
+2. Released [v0.3.0](https://github.com/quintsys/firebase_hosting_client_ip/releases/tag/v0.3.0) in [quintsys/firebase_hosting_client_ip](https://github.com/quintsys/firebase_hosting_client_ip)<br>
 3. Pushed undefined commit(s) to [quintsys/firebase_hosting_client_ip](https://github.com/quintsys/firebase_hosting_client_ip)<br>
 4. Pushed undefined commit(s) to [quintsys/firebase_hosting_client_ip](https://github.com/quintsys/firebase_hosting_client_ip)<br>
-5. Opened PR [#21](undefined) in [quintsys/firebase_hosting_client_ip](https://github.com/quintsys/firebase_hosting_client_ip)<br>
+5. Pushed undefined commit(s) to [quintsys/firebase_hosting_client_ip](https://github.com/quintsys/firebase_hosting_client_ip)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 12th, 2025, 11:35:04 PM (GMT)
+Last Updated: Saturday, December 13th, 2025, 12:48:54 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
